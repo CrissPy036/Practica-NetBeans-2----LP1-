@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Pago extends javax.swing.JFrame {
 
     /**
-     * Creates new form Cambio
+     @author Cristhian Abel Aguilar Gonzalez
      */
     public Pago() {
         initComponents();

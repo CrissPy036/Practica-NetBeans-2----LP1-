@@ -3,7 +3,7 @@ package tienda;
 public class Login extends javax.swing.JFrame {
 
     /**
-     * Creates new form Login
+     @author Cristhian Abel Aguilar Gonzalez
      */
     public Login() {
         initComponents();

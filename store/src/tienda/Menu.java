@@ -592,7 +592,7 @@ public class Menu extends javax.swing.JFrame {
                 this.setVisible(false);
                 Detalle ventana3 = new Detalle();
 
-                ventana3.cantidades(cantidad1, cantidad2, cantidad3, cantidad4);
+                ventana3.cantidades(cantidad1, cantidad2, cantidad3, cantidad4, cantidad5, cantidad6, cantidad7, cantidad8);
                 ventana3.setVisible(true);
             }
         }

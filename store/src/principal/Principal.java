@@ -5,7 +5,7 @@ import tienda.Login;
 public class Principal {
 
     /**
-     * @param args the command line arguments
+     @author Cristhian Abel Aguilar Gonzalez
      */
     public static void main(String[] args) {
         // TODO code application logic here
