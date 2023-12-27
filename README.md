@@ -8,9 +8,9 @@
 ### • Correcciones de la disposición de botones, mensajes, imágenes.
 
 ## Contenido
-### • Inicio de Sesión del Usuario: [Login](Login.java)
-### • Menu de artículos: [Menu](Menu.java)
-### • Menu detalles de compra: [Detalle](Detalles.java)
-### • Inicio de Pago: [Pago](Pago.java)
+### • Inicio de Sesión del Usuario: [Login](store/src/tienda/Login.java)
+### • Menu de artículos: [Menu](store/src/tienda/Menu.java)
+### • Menu detalles de compra: [Detalle](store/src/tienda/Detalle.java)
+### • Inicio de Pago: [Pago](store/src/tienda/Pago.java)
 
 @author -> Cristhian Abel Aguilar González
