@@ -134,7 +134,7 @@ public class Menu extends javax.swing.JFrame {
 
         precio1.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio1.setForeground(new java.awt.Color(255, 255, 0));
-        precio1.setText("13000");
+        precio1.setText("17500");
         getContentPane().add(precio1, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 290, -1, -1));
 
         precio2.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
@@ -144,7 +144,7 @@ public class Menu extends javax.swing.JFrame {
 
         precio3.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio3.setForeground(new java.awt.Color(255, 255, 0));
-        precio3.setText("11500");
+        precio3.setText("12000");
         getContentPane().add(precio3, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 290, -1, -1));
 
         precio4.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
@@ -271,6 +271,7 @@ public class Menu extends javax.swing.JFrame {
 
         btCleanVenta.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         btCleanVenta.setText("Cancelar compra");
+        btCleanVenta.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         btCleanVenta.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btCleanVentaActionPerformed(evt);
@@ -280,6 +281,7 @@ public class Menu extends javax.swing.JFrame {
 
         btPagar.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         btPagar.setText("Proceder al pago");
+        btPagar.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         btPagar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btPagarActionPerformed(evt);
@@ -289,6 +291,7 @@ public class Menu extends javax.swing.JFrame {
 
         btCerrarSesion.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         btCerrarSesion.setText("Cerrar sesión");
+        btCerrarSesion.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         btCerrarSesion.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btCerrarSesionActionPerformed(evt);
@@ -334,22 +337,22 @@ public class Menu extends javax.swing.JFrame {
 
         precio5.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio5.setForeground(new java.awt.Color(255, 255, 0));
-        precio5.setText("13000");
+        precio5.setText("10000");
         getContentPane().add(precio5, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 620, -1, -1));
 
         precio6.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio6.setForeground(new java.awt.Color(255, 255, 0));
-        precio6.setText("9000");
+        precio6.setText("20000");
         getContentPane().add(precio6, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 620, -1, -1));
 
         precio7.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio7.setForeground(new java.awt.Color(255, 255, 0));
-        precio7.setText("11500");
+        precio7.setText("8500");
         getContentPane().add(precio7, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 620, -1, -1));
 
         precio8.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         precio8.setForeground(new java.awt.Color(255, 255, 0));
-        precio8.setText("7000");
+        precio8.setText("7500");
         getContentPane().add(precio8, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 620, -1, -1));
 
         btSuma5.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
